@@ -1,3 +1,3 @@
-![Screenshot (32)](https://user-images.githubusercontent.com/65783304/174094130-93bc007e-79fd-45f4-b60b-f370bc935415.png)
-
-Tells time.
+![Screenshot (33)](https://user-images.githubusercontent.com/65783304/174094637-d219768e-9313-4301-9899-7d70aca3e1a7.png)
+Digital Clock
+Tells time
